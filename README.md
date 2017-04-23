@@ -4,8 +4,8 @@ A trolling utility that spams Discord webhooks with a message of the user's choi
 ## How to get?
 Visit the [Releases](https://github.com/Hexexpeck/SpamHook/releases) page on GitHub.
 
-## I don't trust you, gimme the source!
-[Sure thing, person](http://hexexpeck.me/discord/webhooks/spammer)
+## Dev Tracker
+[Right here](https://github.com/Hexexpeck/SpamHook/projects/1)
 
-## OMG I love this, thank you so much!
-Glad you like it.
+## Compiling the Windows EXE
+Once I release the build script, I'll give instructions on compiling the Windows EXE. Which should be soon.
